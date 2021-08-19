@@ -1,6 +1,6 @@
 # todoapp
 
-A Flutter ToDo App
+A Flutter ToDo App with SQFlite and all CRUD operations
 
 ## Getting Started
 
